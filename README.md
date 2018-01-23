@@ -1,8 +1,8 @@
 # :computer: Applied-Statistics-R-UNIPD
 
-The overall course goal is to give the participants knowledge on statistical methods and data analysis, with particular emphasis on the application of Analysis of Variance techniques using R software 
-Class meets: February 6,7 & 8. 
-             9:00 am - 12:00 pm, Aula 12 Pentagono.
+The overall course goal is to give the participants knowledge on statistical methods and data analysis, with particular emphasis on the application of Analysis of Variance techniques using R software.
+
+Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 
 ## :notebook: Slides
 
@@ -14,5 +14,5 @@ Class meets: February 6,7 & 8.
  
 ## :books: Textbooks and Suplemental Readings
 
-* [The R Book](books/The R Book .pdf)
-* [R in Action](books/R IN ACTION_ Data analysis and graphics with R - Robert I. Kabacoff.pdf)
+* [The R Book](Applied-Statistics-R-UNIPD/books/The R Book .pdf)
+* [R in Action](Applied-Statistics-R-UNIPD/books/R IN ACTION_ Data analysis and graphics with R - Robert I. Kabacoff.pdf)
