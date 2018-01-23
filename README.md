@@ -14,5 +14,7 @@ Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
  
 ## :books: Textbooks and Suplemental Readings
 
-* [The R Book](Applied-Statistics-R-UNIPD/books/The R Book .pdf)
-* [R in Action](Applied-Statistics-R-UNIPD/books/R IN ACTION_ Data analysis and graphics with R - Robert I. Kabacoff.pdf)
+* [The R Book](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/R%20IN%20ACTION_%20Data%20analysis%20and%20graphics%20with%20R%20-%20Robert%20I.%20Kabacoff.pdf)
+* [R in Action](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/The%20R%20Book%20.pdf)
+
+
