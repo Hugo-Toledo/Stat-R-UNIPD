@@ -13,4 +13,4 @@ The overall course goal is to give the participants knowledge on statistical met
 ## Textbooks and Suplemental Readings
 
 *[The R Book]()
-*[R in Action]()
+*[R in Action](books/R IN ACTION_ Data analysis and graphics with R - Robert I. Kabacoff.pdf)
