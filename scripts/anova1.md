@@ -11,18 +11,18 @@ foods<-data.frame(milk=c(25.40,26.31,24.10,23.74,25.10,
                   stringsAsFactors = TRUE)
 
 # ANOVA test
-fm<-aov(milk ~ food, data = foods)
-summary(fm)
+fm<-aov(milk ~ food, data = foods)  # Fit the ANOVA
+summary(fm)                         # ANOVA table
+
 # Multiple comparisons
 
-TukeyHSD(fm)
-plot(TukeyHSD(fm))
-aggregate(foods$milk, by=list(foods$food), FUN = mean)
+TukeyHSD(fm)                  # Tukey test for multiple comparisons
+plot(TukeyHSD(fm))            # Plot for tukey test
+aggregate(foods$milk, by=list(foods$food), FUN = mean) # Means by group
 
 library(multcomp)
-par(mar=c(5,4,6,2))
-tuk <- glht(fm, linfct=mcp(food="Tukey"))
-plot(cld(tuk, level=0.05),col="lightgrey")
+par(mar=c(5,4,6,2))           # Change parameters for the plot margins
+tuk <- glht(fm, linfct=mcp(food="Tukey")) # Fit the general Linear Hypotheses
+plot(cld(tuk, level=0.05),col="lightgrey")   # Plot the mean differences
 
-######################################
 ```
