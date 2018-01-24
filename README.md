@@ -7,6 +7,7 @@ Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 ## :notebook: Slides
 
 ## :computer: R scripts
+* [Descriptive Statistics and Normality](Applied-Statistics-R-UNIPD/scripts/normal.md)
 
 ## :page_with_curl: Datasets 
 
