@@ -25,3 +25,4 @@ To save a file to your pc: click it to view the contents within the GitHub, then
 
 * https://www.rdocumentation.org/
 * https://www.statmethods.net/index.html
+* https://stackoverflow.com
