@@ -1,0 +1,15 @@
+25.4	Food1
+26.31	Food1
+24.1	Food1
+23.74	Food1
+25.1	Food1
+23.4	Food2
+21.8	Food2
+23.5	Food2
+22.75	Food2
+21.6	Food2
+20	Food3
+22.2	Food3
+19.75	Food3
+20.6	Food3
+20.4	Food3
