@@ -13,6 +13,7 @@ Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 To save a file to your pc: click it to view the contents within the GitHub, then in the top right, **right click** the **Raw** button, then **save as...**   :floppy_disk: 
 
  * [Cows](data/latte-12-02.txt)
+ * [Foods](Applied-Statistics-R-UNIPD/data/foods.txt)
  
 ## :books: Textbooks and Suplemental Readings
 
