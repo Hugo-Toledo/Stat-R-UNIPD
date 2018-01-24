@@ -8,6 +8,7 @@ Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 
 ## :computer: R scripts
 * [Descriptive Statistics and Normality](scripts/normal.md)
+* [One-Way ANOVA](scripts/anova1.md)
 
 ## :page_with_curl: Datasets 
 
