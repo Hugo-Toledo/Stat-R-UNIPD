@@ -6,10 +6,13 @@ Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 
 ## :notebook: Slides
 
+| [R version](scripts/anova3.md)      | [SAS version](scripts/anova3.md) |
+
 ## :computer: R scripts
 * [Descriptive Statistics and Normality](scripts/normal.md)
 * [One-Way ANOVA](scripts/anova1.md)
 * [RCBD](scripts/anova2.md)
+* [Two-Way ANOVA](scripts/anova3.md)
 
 ## :page_with_curl: Datasets 
 
