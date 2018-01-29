@@ -2,11 +2,16 @@
 
 The overall course goal is to give the participants knowledge on statistical methods and data analysis, with particular emphasis on the application of Analysis of Variance techniques using R software.
 
+Professors:
+
+* Alessio Cecchinato
+* Hugo Toledo
+
 Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 
 ## :notebook: Slides
 
-| [R version](scripts/anova3.md)      | [SAS version](scripts/anova3.md) |
+| [R version (*not yet*)](scripts/anova3.md)      | [SAS version (*not yet*)](scripts/anova3.md) |
 
 ## :computer: R scripts
 * [Descriptive Statistics and Normality](scripts/normal.md)
