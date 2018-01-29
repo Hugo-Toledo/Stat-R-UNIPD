@@ -16,12 +16,12 @@ You can install R directly from https://www.r-project.org/, also you can install
 | [R version (*not yet*)](scripts/anova3.md)      | [SAS version (*not yet*)](scripts/anova3.md) |
 
 ## :computer: R scripts
-* [Descriptive Statistics and Normality](scripts/normal.md)
-* [One-Way ANOVA](scripts/anova1.md)
-* [Randomized Complete Block Design](scripts/anova2.md)
-* [Two-Way ANOVA](scripts/anova3.md)
-* [Linear Contrasts](scripts/anova4.md)
-* [Completely Randomized Design with a Covariate](scripts/anova5.md)
+1. [Descriptive Statistics and Normality](scripts/normal.md)
+2. [One-Way ANOVA](scripts/anova1.md)
+3. [Complete Randomized Block Design](scripts/anova2.md)
+4. [Two-Way ANOVA](scripts/anova3.md)
+5. [Linear Contrasts](scripts/anova4.md)
+6. [Completely Randomized Design with a Covariate](scripts/anova5.md)
 
 ## :page_with_curl: Datasets 
 
