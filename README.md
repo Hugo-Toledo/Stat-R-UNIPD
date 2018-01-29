@@ -20,7 +20,7 @@ You can install R directly from https://www.r-project.org/, also you can install
 2. [One-Way ANOVA](scripts/anova1.md)
 3. [Complete Randomized Block Design](scripts/anova2.md)
 4. [Two-Way ANOVA](scripts/anova3.md)
-5. [Linear Contrasts](scripts/anova4.md)
+5. [Contrasts](scripts/anova4.md)
 6. [Completely Randomized Design with a Covariate](scripts/anova5.md)
 
 ## :page_with_curl: Datasets 
