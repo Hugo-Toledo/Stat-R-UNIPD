@@ -28,12 +28,10 @@ summary(tm)                            # Linear Model Summary
 
 # LSM
 library(lsmeans)
-lsmeans(tm,"vitI")
-lsmeans(tm,"vitII")
-summary(ref.grid(tm))
+lsmeans(tm,"vitI")   #LSM for VitI
+lsmeans(tm,"vitII")  #LSM for VitII
+summary(ref.grid(tm))#This is the reference grid of the model
 aggregate(gain$gain, by=list(gain$vitI,gain$vitII), FUN = mean) # Means by group
-
-#contrast(ref.grid(tm))
 
 # Multiple comparisons
 
