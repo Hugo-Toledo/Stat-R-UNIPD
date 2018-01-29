@@ -1,4 +1,4 @@
-## Randomized Complete Block Design 
+## Complete Randomized Block Design 
 ```R
 rm(list = ls())
 # Create Dataframe
