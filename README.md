@@ -39,6 +39,7 @@ To save a file to your pc: click it to view the contents within the GitHub, then
 * [The R Book](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/R%20IN%20ACTION_%20Data%20analysis%20and%20graphics%20with%20R%20-%20Robert%20I.%20Kabacoff.pdf)
 * [R in Action](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/The%20R%20Book%20.pdf)
 * [Short-Refcard](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/Short-refcard.pdf)
+* [LSMeans in R](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/LSMeans%20R.pdf)
 
 ## :globe_with_meridians: Usefull Links
 
