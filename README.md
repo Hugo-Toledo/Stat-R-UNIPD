@@ -9,6 +9,8 @@ Professors:
 
 Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 
+You can install R directly from https://www.r-project.org/, also you can install RStudio (https://www.rstudio.com/) to have a nice interface.
+
 ## :notebook: Slides
 
 | [R version (*not yet*)](scripts/anova3.md)      | [SAS version (*not yet*)](scripts/anova3.md) |
@@ -16,15 +18,21 @@ Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 ## :computer: R scripts
 * [Descriptive Statistics and Normality](scripts/normal.md)
 * [One-Way ANOVA](scripts/anova1.md)
-* [RCBD](scripts/anova2.md)
+* [Randomized Complete Block Design](scripts/anova2.md)
 * [Two-Way ANOVA](scripts/anova3.md)
+* [Linear Contrasts](scripts/anova4.md)
+* [Completely Randomized Design with a Covariate](scripts/anova5.md)
 
 ## :page_with_curl: Datasets 
 
 To save a file to your pc: click it to view the contents within the GitHub, then in the top right, **right click** the **Raw** button, then **save as...**   :floppy_disk: 
 
- * [Cows](data/latte-12-02.txt)
+ * [Cows](data/cows.txt)
  * [Foods](Applied-Statistics-R-UNIPD/data/foods.txt)
+ * [Pigs](Applied-Statistics-R-UNIPD/data/pigs.txt)
+ * [Vitamins](Applied-Statistics-R-UNIPD/data/vits.txt)
+ * [Lambs](Applied-Statistics-R-UNIPD/data/lambs.txt)
+ * [Diets](Applied-Statistics-R-UNIPD/data/diets.txt)
  
 ## :books: Textbooks and Suplemental Readings
 
@@ -37,3 +45,4 @@ To save a file to your pc: click it to view the contents within the GitHub, then
 * https://www.rdocumentation.org/
 * https://www.statmethods.net/index.html
 * https://stackoverflow.com
+* https://stats.idre.ucla.edu/r/
