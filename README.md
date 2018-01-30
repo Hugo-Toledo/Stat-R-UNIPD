@@ -33,6 +33,7 @@ To save a file to your pc: click it to view the contents within the GitHub, then
  * [Vitamins](Applied-Statistics-R-UNIPD/data/vits.txt)
  * [Lambs](Applied-Statistics-R-UNIPD/data/lambs.txt)
  * [Diets](Applied-Statistics-R-UNIPD/data/diets.txt)
+ * [Gain](Applied-Statistics-R-UNIPD/data/gain.txt)
  
 ## :books: Textbooks and Suplemental Readings
 
