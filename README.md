@@ -25,10 +25,10 @@ You can install R directly from https://www.r-project.org/, also you can install
 
 ## :page_with_curl: Datasets 
 
-To save a file to your pc: click it to view the contents within the GitHub, then in the top right, **right click** the **Raw** button, then **save as...**   :floppy_disk: 
+To save a file to your pc, click it to view the contents within the GitHub, then in the top right, **right click** the **Raw** button, then **save as...**   :floppy_disk: 
 
  * [Cows](data/cows.txt)
- * [Foods](Applied-Statistics-R-UNIPD/data/foods.txt)
+ * [Foods](data/foods.txt)
  * [Pigs](Applied-Statistics-R-UNIPD/data/pigs.txt)
  * [Vitamins](Applied-Statistics-R-UNIPD/data/vits.txt)
  * [Lambs](Applied-Statistics-R-UNIPD/data/lambs.txt)
