@@ -29,11 +29,11 @@ To save a file to your pc, click it to view the contents within the GitHub, then
 
  * [Cows](data/cows.txt)
  * [Foods](data/foods.txt)
- * [Pigs](Applied-Statistics-R-UNIPD/data/pigs.txt)
- * [Vitamins](Applied-Statistics-R-UNIPD/data/vits.txt)
- * [Lambs](Applied-Statistics-R-UNIPD/data/lambs.txt)
- * [Diets](Applied-Statistics-R-UNIPD/data/diets.txt)
- * [Gain](Applied-Statistics-R-UNIPD/data/gain.txt)
+ * [Pigs](data/pigs.txt)
+ * [Vitamins](data/vits.txt)
+ * [Lambs](data/lambs.txt)
+ * [Diets](data/diets.txt)
+ * [Gain](data/gain.txt)
  
 ## :books: Textbooks and Suplemental Readings
 
