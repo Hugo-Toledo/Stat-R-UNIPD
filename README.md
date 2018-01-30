@@ -31,8 +31,7 @@ To save a file to your pc, click it to view the contents within the GitHub, then
  * [Foods](data/foods.txt)
  * [Pigs](data/pigs.txt)
  * [Vitamins](data/vits.txt)
- * [Lambs](data/lambs.txt)
- * [Diets](data/diets.txt)
+ * [Lambs](data/lambs.csv)
  * [Gain](data/gain.txt)
  
 ## :books: Textbooks and Suplemental Readings
