@@ -29,7 +29,7 @@ If you are a complete beginner with **R**, I recommend reading this brief [**int
 
 To save a file to your pc, click it to view the contents within the GitHub, then in the top right, **right click** the **Raw** button, then **save as...**   :floppy_disk: 
 
- * [Cows](data/cows.txt)
+ * [Cows](data/latte-12-02_en.txt)
  * [Foods](data/foods.txt)
  * [Pigs](data/pigs.txt)
  * [Vitamins](data/vits.txt)
