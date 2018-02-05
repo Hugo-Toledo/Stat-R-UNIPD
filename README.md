@@ -14,7 +14,7 @@ If you are a complete beginner with **R**, I recommend reading this brief [**int
 
 ## :notebook: Slides
 
-1. [**Cecchinato**](slides/applied_statistics_R_2018.pdf)
+1. [**Cecchinato & Toledo**](slides/applied_statistics_R_2018.pdf)
 
 ## :computer: R scripts
 
