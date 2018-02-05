@@ -10,13 +10,15 @@ Professors:
 Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 
 You can install R directly from https://www.r-project.org/, also you can install RStudio (https://www.rstudio.com/) to have a nice interface. 
-If you are a complete beginner with **R**, I recommend reading this brief [**introduction**](books/Torfs_Brauer-Short-R-Intro.pdf)
+If you are a complete beginner with **R**, I recommend reading this brief [**introduction**.](books/Torfs_Brauer-Short-R-Intro.pdf)
 
 ## :notebook: Slides
 
 | PPTX | PDF |
 | :----: |:----:|
 | [**Slides 1**](slides/applied_statistics_R_2018.pptx) | [**Slides 1**](slides/applied_statistics_R_2018.pdf) |
+
+(To download the pptx just click on **Raw** button)
 
 ## :computer: R scripts
 
