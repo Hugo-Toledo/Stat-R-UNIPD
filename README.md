@@ -14,11 +14,7 @@ If you are a complete beginner with **R**, I recommend reading this brief [**int
 
 ## :notebook: Slides
 
-| PPTX | PDF |
-| :----: |:----:|
-| [**Slides 1**](slides/applied_statistics_R_2018.pptx) | [**Slides 1**](slides/applied_statistics_R_2018.pdf) |
-
-(To download the pptx just click on **Raw** button)
+1. [**Cecchinato**](slides/applied_statistics_R_2018.pdf)
 
 ## :computer: R scripts
 
