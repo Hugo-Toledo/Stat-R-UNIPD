@@ -12,8 +12,9 @@ Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 You can install R directly from https://www.r-project.org/, also you can install RStudio (https://www.rstudio.com/) to have a nice interface.
 
 ## :notebook: Slides
-
-| [R version (*not yet*)](scripts/anova3.md)      | [SAS version (*not yet*)](scripts/anova3.md) |
+| PPTX | PDF |
+| :----: |:----:|
+| [*Slides*](scripts/applied statistics R - 2018_updated.pdf)      | [*Slides*](scripts/anova3.md) |
 
 ## :computer: R scripts
 1. [Descriptive Statistics and Normality](scripts/normal.md)
