@@ -1,6 +1,6 @@
 ```r
 # Reads data directly from WEB 
-filedir<-"https://raw.githubusercontent.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/master/data/latte-12-02.txt"
+filedir<-"https://raw.githubusercontent.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/master/data/latte-12-02_en.txt"
 cows<-read.table(file = filedir,stringsAsFactors = FALSE,header = TRUE, sep = "\t")
 
 ######################################
@@ -11,6 +11,8 @@ summary(milk)        # Basic statistics
 sd(milk)             # Standard Deviation function
 range(milk)          # Range function
 shapiro.test(milk)   # Shapiro - Wilk normality test
+# install.packages("car") ?
+car::leveneTest(milk ~ as.factor(breed), data=cows) #Levene’s test
 
 # Density plot with normal distribution curve 
 plot(density(milk), col=4, main="Milk")
