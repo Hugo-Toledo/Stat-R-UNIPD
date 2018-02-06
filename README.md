@@ -11,6 +11,12 @@ Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 
 You can install R directly from https://www.r-project.org/, also you can install RStudio (https://www.rstudio.com/) to have a nice interface. 
 If you are a complete beginner with **R**, I recommend reading this brief [**introduction**.](books/Torfs_Brauer-Short-R-Intro.pdf)
+For the course you need the following packages:
+```R
+install.packages("car")
+install.packages("multcomp")
+install.packages("lsmeans")
+```
 
 ## :notebook: Slides
 
