@@ -9,6 +9,10 @@ Professors:
 
 Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 
+1. please bring your own laptop with R software already installed.
+2. please verify that you have one internet connection ('eduroam' or others) working properly.
+3. please download the slides from this webpage
+
 You can install R directly from https://www.r-project.org/, also you can install RStudio (https://www.rstudio.com/) to have a nice interface. 
 If you are a complete beginner with **R**, I recommend reading this brief [**introduction**.](books/Torfs_Brauer-Short-R-Intro.pdf)
 For the course you need the following packages:
