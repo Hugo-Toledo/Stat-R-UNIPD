@@ -28,8 +28,11 @@ install.packages("lsmeans")
 
 ## :computer: R scripts
 
+If you want to use the scripts, please select, copy and paste the script in R. Otherwise you can download the PDF qith the solutions. 
 1. [Descriptive Statistics and Normality](scripts/normal.md)
+    * [PDF with solutions](scripts/1.0_Normality.pdf)
 2. [One-Way ANOVA](scripts/anova1.md)
+    * [PDF with solutions](scripts/2.0_ANOVA.pdf)
 3. [Complete Randomized Block Design](scripts/anova2.md)
 4. [Two-Way ANOVA](scripts/anova3.md)
 5. [Contrasts](scripts/anova4.md)
@@ -53,6 +56,7 @@ To save a file to your pc, click it to view the contents within the GitHub, then
 * [The R Book](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/R%20IN%20ACTION_%20Data%20analysis%20and%20graphics%20with%20R%20-%20Robert%20I.%20Kabacoff.pdf)
 * [R in Action](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/The%20R%20Book%20.pdf)
 * [LSMeans in R](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/LSMeans%20R.pdf)
+* [Formula Notation in R](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/formulanotation.pdf)
 
 ## :globe_with_meridians: Usefull Links
 
