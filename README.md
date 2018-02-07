@@ -28,7 +28,7 @@ install.packages("lsmeans")
 
 ## :computer: R scripts
 
-If you want to use the scripts, please select, copy and paste the script in R. Otherwise you can download the PDF qith the solutions. 
+If you want to use the scripts, please select, copy and paste the script in R. Otherwise you can download the PDF with the solutions. 
 1. [Descriptive Statistics and Normality](scripts/normal.md)
     * [PDF with solutions](scripts/1.0_Normality.pdf)
 2. [One-Way ANOVA](scripts/anova1.md)
