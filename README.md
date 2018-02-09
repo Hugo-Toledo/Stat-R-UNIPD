@@ -26,6 +26,10 @@ install.packages("lsmeans")
 
 1. [**Cecchinato & Toledo**](slides/applied_statistics_R_2018.pdf)
 
+## :bicyclist: Exercises
+
+* [Soils](exercises/ex_soils.md) 
+
 ## :computer: R scripts
 
 If you want to use the scripts, please select, copy and paste the script in R. Otherwise you can download the PDF with the solutions. 
@@ -34,9 +38,13 @@ If you want to use the scripts, please select, copy and paste the script in R. O
 2. [One-Way ANOVA](scripts/anova1.md)
     * [PDF with solutions](scripts/2.0_ANOVA.pdf)
 3. [Complete Randomized Block Design](scripts/anova2.md)
+    * [PDF with solutions](scripts/3.0_ANOVA_rcbd.pdf)
 4. [Two-Way ANOVA](scripts/anova3.md)
+    * [PDF with solutions](scripts/4.0_Two_Way_ANOVA.pdf)
 5. [Contrasts](scripts/anova4.md)
+    * [PDF with solutions](scripts/5.0_ANOVA_Contrasts.pdf)
 6. [Completely Randomized Design with a Covariate](scripts/anova5.md)
+    * [PDF with solutions](scripts/6.0_ANOVA_CRD_Covariate.pdf)
 
 ## :page_with_curl: Datasets 
 
