@@ -1,11 +1,13 @@
 # :clipboard: Applied-Statistics-R-UNIPD
 
-The overall course goal is to give the participants knowledge on statistical methods and data analysis, with particular emphasis on the application of Analysis of Variance techniques using R software.
+The overall course goal is to give the participants knowledge on statistical methods and data analysis, with particular emphasis on the application techniques using R software.
 
 Professors:
 
 * Alessio Cecchinato, :e-mail: alessio.cecchinato@unipd.it
-* Hugo Toledo, :e-mail: hugooswaldo.toledoalvarado@phd.unipd.it
+* Roberto Mantovani, :e-mail: roberto.mantovani@unipd.it
+* Cristina Sartori, :e-mail: cristina.sartori@unipd.it
+* Hugo Toledo, :e-mail: hugooswaldo.toledoalvarado@phd.unipd.it or h.toledo.a@gmail.com
 
 Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
 
@@ -20,15 +22,19 @@ For the course you need the following packages:
 install.packages("car")
 install.packages("multcomp")
 install.packages("lsmeans")
+install.packages("lme4") # For mixed models course
 ```
 
 ## :notebook: Slides
 
 1. [**Cecchinato & Toledo**](slides/applied_statistics_R_2018.pdf)
+2. [**Mantovani**]()
+3. [**Cristina**]()
 
 ## :bicyclist: Exercises
 
 * [Soils](exercises/ex_soils.md) 
+   * [PDF with solutions](exercises/Excercise_Soils.pdf)
 
 ## :computer: R scripts
 
@@ -61,10 +67,11 @@ To save a file to your pc, click it to view the contents within the GitHub, then
 
 * [Elementary Statistics](books/Larson_and_Farber_Elementary_Statistics_Picturing_the_World_5th_ed.pdf)
 * [Short-Refcard](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/Short-refcard.pdf)
-* [The R Book](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/R%20IN%20ACTION_%20Data%20analysis%20and%20graphics%20with%20R%20-%20Robert%20I.%20Kabacoff.pdf)
-* [R in Action](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/The%20R%20Book%20.pdf)
+* [R in Action: Book](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/R%20IN%20ACTION_%20Data%20analysis%20and%20graphics%20with%20R%20-%20Robert%20I.%20Kabacoff.pdf)
+* [The R Book: Book](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/The%20R%20Book%20.pdf)
 * [LSMeans in R](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/LSMeans%20R.pdf)
 * [Formula Notation in R](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/formulanotation.pdf)
+* [Mixed Models in R](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/books/lme4_R.pdf)
 
 ## :globe_with_meridians: Usefull Links
 
