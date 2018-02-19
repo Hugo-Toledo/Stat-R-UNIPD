@@ -64,6 +64,11 @@ To save a file to your pc, click it to view the contents within the GitHub, then
  * [Lambs](data/lambs.csv)
  * [Gain](data/gain.txt)
  
+ ------
+ 
+ * [RBD](data/rbd.txt)
+ * [Latin Square](data/LatinSquare.txt)
+ 
 ## :books: Textbooks and Suplemental Readings
 
 * [Elementary Statistics](books/Larson_and_Farber_Elementary_Statistics_Picturing_the_World_5th_ed.pdf)
