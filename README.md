@@ -33,8 +33,11 @@ install.packages("lme4") # For mixed models course
 ## :notebook: Slides
 
 1. [**Cecchinato & Toledo**](slides/applied_statistics_R_2018.pdf)
+
 2.1 [**Mantovani ANOVA**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Analysis%20of%20Variance.pdf)
+
 2.2 [**Mantovani Experimanetal Plans**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Experimental%20plans.pdf)
+
 3.1 [**Cristina**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Mixed_models_PhD_2018_parts_I_%26_II.pdf)
 
 ## :bicyclist: Exercises
