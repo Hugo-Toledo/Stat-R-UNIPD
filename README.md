@@ -33,9 +33,9 @@ install.packages("lme4") # For mixed models course
 ## :notebook: Slides
 
 1. [**Cecchinato & Toledo**](slides/applied_statistics_R_2018.pdf)
-2. [**Mantovani ANOVA**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Analysis%20of%20Variance.pdf)
-    * [**Mantovani Experimanetal Plans**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Experimental%20plans.pdf)
-3. [**Cristina**]()
+2.1 [**Mantovani ANOVA**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Analysis%20of%20Variance.pdf)
+2.2 [**Mantovani Experimanetal Plans**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Experimental%20plans.pdf)
+3.1 [**Cristina**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Mixed_models_PhD_2018_parts_I_%26_II.pdf)
 
 ## :bicyclist: Exercises
 
@@ -59,13 +59,14 @@ If you want to use the scripts, please select, copy and paste the script in R. O
     * [PDF with solutions](scripts/6.0_ANOVA_CRD_Covariate.pdf)
 ------
 7. [Random Block Design](scripts/rbd.md)
-   *
 8. [Latin Square](scripts/latinsquare.md)
-   *
 9. [Nested](scripts/nested.md)
-   *
 10. [Split Plot](scripts/splitplot.md)
-   *
+	
+* [For Loop](scripts/forloop.md)
+------
+
+11. [Mixed Models 1](scripts/mix1.md)
 
 ## :page_with_curl: Datasets 
 
@@ -82,6 +83,10 @@ To save a file to your pc, click it to view the contents within the GitHub, then
  
  * [RBD](data/rbd.txt)
  * [Latin Square](data/LatinSquare.txt)
+ 
+ ------
+ 
+ * [Mixed Models Cows](data/cows.txt)
  
 ## :books: Textbooks and Suplemental Readings
 
