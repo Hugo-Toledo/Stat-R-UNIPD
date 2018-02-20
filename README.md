@@ -9,7 +9,12 @@ Professors:
 * Cristina Sartori, :e-mail: cristina.sartori@unipd.it
 * Hugo Toledo, :e-mail: hugooswaldo.toledoalvarado@phd.unipd.it or h.toledo.a@gmail.com
 
-Class meets: February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
+Class meets: 
+   * February 6, 7 & 8 from 9:00am to 12:00pm, at Aula 12 Pentagono.
+   * Tuesday 20, aula 2 - prima stecca, 9 - 12 pm - - Mantovani
+   * Tuesday 20, aula 2  - prima stecca, 14 -17:30 - - Cristina
+   * Thursday 22, aula 1 - 2nda stecca, 11 - 13:30 - - Cristina
+	* Thursday 22, aula 2 - 2nda stecca, 14:30 - 18:00 - - Cristina
 
 1. please bring your own laptop with R software already installed.
 2. please verify that you have one internet connection ('eduroam' or others) working properly.
@@ -52,6 +57,11 @@ If you want to use the scripts, please select, copy and paste the script in R. O
     * [PDF with solutions](scripts/5.0_ANOVA_Contrasts.pdf)
 6. [Completely Randomized Design with a Covariate](scripts/anova5.md)
     * [PDF with solutions](scripts/6.0_ANOVA_CRD_Covariate.pdf)
+------
+7. [Random Block Design](scripts/rbd.md)
+   *
+8. [Latin Square](scripts/latinsquare.md)
+   *
 
 ## :page_with_curl: Datasets 
 
