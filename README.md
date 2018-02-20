@@ -62,6 +62,10 @@ If you want to use the scripts, please select, copy and paste the script in R. O
    *
 8. [Latin Square](scripts/latinsquare.md)
    *
+9. [Nested](scripts/nested.md)
+   *
+10. [Split Plot](scripts/splitplot.md)
+   *
 
 ## :page_with_curl: Datasets 
 
