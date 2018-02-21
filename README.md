@@ -62,14 +62,25 @@ If you want to use the scripts, please select, copy and paste the script in R. O
     * [PDF with solutions](scripts/6.0_ANOVA_CRD_Covariate.pdf)
 ------
 7. [Random Block Design](scripts/rbd.md)
+
 8. [Latin Square](scripts/latinsquare.md)
-9. [Nested](scripts/nested.md)
-10. [Split Plot](scripts/splitplot.md)
 	
-* [For Loop](scripts/forloop.md)
+9. [Nested](scripts/nested.md)
+    * [PDF with solutions](scripts/1.0_Nested.pdf)	
+10. [Split Plot](scripts/splitplot.md)
+    * [PDF with solutions](scripts/2.0_SplitPlot.pdf)
+  
+[For Loop](scripts/forloop.md)
 ------
 
 11. [Mixed Models 1](scripts/mix1.md)
+    * [PDF with solutions](scripts/1.0_Mixed.pdf)
+12. [Mixed Models RBD]()
+    * [PDF with solutions](scripts/2.0_Mixed_rbd.pdf)
+13. [Mixed Models Nested]()
+    * [PDF with solutions](scripts/3.0_Mixed_Nest.pdf)
+14. [Mixed Models Repeated Measures]()
+    * [PDF with solutions](scripts/4.0_Mixed_Rep.pdf)
 
 ## :page_with_curl: Datasets 
 
@@ -89,7 +100,11 @@ To save a file to your pc, click it to view the contents within the GitHub, then
  
  ------
  
- * [Mixed Models Cows](data/cows.txt)
+ * [Mixed Models 1](data/cows.txt)
+ * [Mixed Models RBD](data/yield_rbd.txt)
+ * [Mixed Models Nested](data/latte-12-02_en.txt)
+ * [Mixed Models Repeated Measures](data/rep.txt)
+ 
  
 ## :books: Textbooks and Suplemental Readings
 
