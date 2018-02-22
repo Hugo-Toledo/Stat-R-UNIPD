@@ -77,7 +77,7 @@ If you want to use the scripts, please select, copy and paste the script in R. O
 
 11. [Mixed Models 1](scripts/mix1.md)
     * [PDF with solutions](scripts/1.0_Mixed.pdf)
-12. [Mixed Models RBD]()
+12. [Mixed Models RBD](scripts/mix_rbd.md)
     * [PDF with solutions](scripts/2.0_Mixed_rbd.pdf)
 13. [Mixed Models Nested]()
     * [PDF with solutions](scripts/3.0_Mixed_Nest.pdf)
