@@ -79,9 +79,9 @@ If you want to use the scripts, please select, copy and paste the script in R. O
     * [PDF with solutions](scripts/1.0_Mixed.pdf)
 12. [Mixed Models RBD](scripts/mix_rbd.md)
     * [PDF with solutions](scripts/2.0_Mixed_rbd.pdf)
-13. [Mixed Models Nested]()
+13. [Mixed Models Nested](scripts/mix_nest.md)
     * [PDF with solutions](scripts/3.0_Mixed_Nest.pdf)
-14. [Mixed Models Repeated Measures]()
+14. [Mixed Models Repeated Measures](scripts/mix_rep.md)
     * [PDF with solutions](scripts/4.0_Mixed_Rep.pdf)
 
 ## :page_with_curl: Datasets 
