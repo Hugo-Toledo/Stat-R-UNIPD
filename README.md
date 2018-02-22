@@ -38,9 +38,9 @@ install.packages("lme4") # For mixed models course
 
 2.2 [**Mantovani Experimental Plans**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Experimental%20plans.pdf)
 
-3.1 [**Cristina Mixed Models**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Mixed_models_PhD_2018_parts_I_%26_II.pdf)
+3.1 [**Cristina Mixed Models Parts I - II**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Mixed_models_PhD_2018_parts_I_%26_II.pdf)
 
-3.2 [**Cristina Mixed Models**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Mixed_models_PhD_2018_parts_III_%26_IV.pdf)
+3.2 [**Cristina Mixed Models Parts III - IV**](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/slides/Mixed_models_PhD_2018_parts_III_%26_IV.pdf)
 
 ## :bicyclist: Exercises
 
