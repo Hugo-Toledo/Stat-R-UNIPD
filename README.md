@@ -46,6 +46,7 @@ install.packages("lme4") # For mixed models course
 
 * [Soils](exercises/ex_soils.md) 
    * [PDF with solutions](exercises/Excercise_Soils.pdf)
+* [Mixed Models Exercises](exercises/Mixed_Models_Exercises.zip)
 
 ## :computer: R scripts
 
