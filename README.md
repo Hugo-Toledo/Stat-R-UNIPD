@@ -29,7 +29,10 @@ install.packages("multcomp")
 install.packages("lsmeans")
 install.packages("lme4") # For mixed models course
 ```
+### Mixed Models EXAM ###
 
+* [Download Exam and Slides](exercises/Mixed Models Final.zip)
+	
 ## :notebook: Slides
 
 1. [**Cecchinato ANOVA**](slides/applied_statistics_R_2018.pdf)
