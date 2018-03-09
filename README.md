@@ -32,7 +32,9 @@ install.packages("lme4") # For mixed models course
 ### Mixed Models EXAM ###
 
 * [Download Exam and Slides](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/exercises/Mixed%20Models%20Final.zip)
-	
+
+Note: The optional questions of the exam are refered to the Exercise 3 for homework.
+
 ## :notebook: Slides
 
 1. [**Cecchinato ANOVA**](slides/applied_statistics_R_2018.pdf)
