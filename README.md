@@ -31,7 +31,7 @@ install.packages("lme4") # For mixed models course
 ```
 ### Mixed Models EXAM ###
 
-* [Download Exam and Slides](exercises/Mixed Models Final.zip)
+* [Download Exam and Slides](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/exercises/Mixed%20Models%20Final.zip)
 	
 ## :notebook: Slides
 
