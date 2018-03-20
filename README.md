@@ -32,6 +32,8 @@ install.packages("lme4") # For mixed models course
 ### Mixed Models EXAM ###
 
 * [Download Exam and Slides](https://github.com/Hugo-Toledo/Applied-Statistics-R-UNIPD/blob/master/exercises/Mixed%20Models%20Final.zip)
+* [Exam corrected](exercises/AppliedStatisticswithRMixedmodelsExamcorrected.pdf)
+* [Script R Exam](exercises/5.0_Mixed_Models_Exam.pdf)
 
 Note: The optional questions of the exam are refered to the Exercise 3 for homework.
 
