@@ -1,4 +1,7 @@
-# :clipboard: Applied-Statistics-R-UNIPD
+
+## :clipboard: Applied Statistics using R software
+> Universita degli Studi di Padova, 
+> Dipartimento di Agronomia Animali Alimenti Risorse Naturali e Ambiente
 
 The overall course goal is to give the participants knowledge on statistical methods and data analysis, with particular emphasis on the application techniques using R software.
 
